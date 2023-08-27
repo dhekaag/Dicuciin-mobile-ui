@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "392437002762",
+    "project_id": "dicuciin-mobile-apps",
+    "storage_bucket": "dicuciin-mobile-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392437002762:android:6fb5c96f8af8525c76e5f3",
+        "android_client_info": {
+          "package_name": "com.example.dicuciin_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392437002762-crgbk6p0knr38l8otl5e66b6mos9lmgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0U1-jfK3LyRLxZiqUZFz8677uNcP8WoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392437002762-crgbk6p0knr38l8otl5e66b6mos9lmgl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392437002762-fh97n4c80lfdquecie9g8hvf7h8838kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dicuciin2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
